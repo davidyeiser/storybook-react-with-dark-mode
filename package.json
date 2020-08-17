@@ -1,0 +1,21 @@
+{
+  "name": "storybook-react-with-dark-mode",
+  "version": "0.1.0",
+  "scripts": {
+    "storybook": "start-storybook -p 9001"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@storybook/addons": "^6.0.4",
+    "@storybook/react": "^6.0.1",
+    "babel-loader": "^8.1.0",
+    "storybook-dark-mode": "^1.0.0"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.34",
+    "@emotion/styled": "^10.0.27",
+    "emotion-theming": "^10.0.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
